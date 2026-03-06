@@ -93,3 +93,5 @@ Também curto **games, simuladores de corrida, carros antigos e tecnologia em ge
 ---
 
 ⭐ *Building things that mix the digital world with the real world.*
+
+![](https://komarev.com/ghpvc/?username=erosborba&label=VISITORS&style=flat-square)
